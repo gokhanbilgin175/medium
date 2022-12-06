@@ -1,0 +1,16 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: rgb(241, 186, 7);
+}
+/* .navbar{
+    border-bottom: 1px solid black;
+} */
+.border-bottom-dark{
+    border-bottom: 1px solid black;
+}
+.btnn  li{
+    margin-bottom: 10px;
+}
